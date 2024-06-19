@@ -3,10 +3,10 @@ const mysql = require('mysql2');
 const cors = require('cors');
 const app = express();
 const db=mysql.createConnection({
-    host:"localhost",
-    user:"root",
-    password:"root",
-    database:"mydb"
+    host:"bkzxncghk1ifv5wzjskz-mysql.services.clever-cloud.com",
+    user:"ujr8oazafgzfufij",
+    password:"ujr8oazafgzfufij",
+    database:"bkzxncghk1ifv5wzjskz"
 });
 
 const PORT = 8810;
