@@ -5,7 +5,7 @@ const app = express();
 const db=mysql.createConnection({
     host:"bkzxncghk1ifv5wzjskz-mysql.services.clever-cloud.com",
     user:"ujr8oazafgzfufij",
-    password:"ujr8oazafgzfufij",
+    password:"0eI17MdQ0e0ts4y0Ongi",
     database:"bkzxncghk1ifv5wzjskz"
 });
 
